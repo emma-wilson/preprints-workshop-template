@@ -1,12 +1,19 @@
 ---
-title: Text Lesson
-teaching: null
-exercises: null
+title: How to share?
+teaching: 30
+exercises: 15
 duration: null
-summary: This template shows you how to use the various different special text
-  boxes on offer.
-questions: null
-objectives: null
+summary: A guided walkthrough of preparing a manuscript for upload to a preprint server.
+questions:
+  - How to format a manuscript?
+  - What file types are accepted?
+  - How are images and graphs handled?
+  - How are preprints linked to published versions of the manuscript?
+  - How to handle feedback on a preprint?
+objectives:
+  - Learn how to prepare and upload a manuscript to a preprint server
+  - Learn how to link the published version of a manuscript back to a preprint
+  - Learn how to handle comments and solicit feedback on your preprint
 keypoints: null
 is-break: null
 ukrn_wb_rules:
