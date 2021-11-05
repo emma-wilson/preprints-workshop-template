@@ -1,10 +1,9 @@
 ---
-title: Text Lesson
-teaching: null
-exercises: null
+title: Wrap up and finish
+teaching: 5
+exercises: 10
 duration: null
-summary: This template shows you how to use the various different special text
-  boxes on offer.
+summary: Summarise the learning objectives and ask any last questions.
 questions: null
 objectives: null
 keypoints: null
