@@ -2,8 +2,8 @@
 title: Break
 teaching: null
 exercises: null
-duration: 30
-summary: Allowing participants breaks helps everyone stay alert and focused.
+duration: 15
+summary: Short tea or coffee break.
 questions: null
 objectives: null
 keypoints: null
