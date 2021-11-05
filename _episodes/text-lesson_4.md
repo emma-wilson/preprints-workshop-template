@@ -1,13 +1,22 @@
 ---
-title: Text Lesson
-teaching: null
+title: Applying to your own workflow
+teaching: 30
 exercises: null
 duration: null
-summary: This template shows you how to use the various different special text
-  boxes on offer.
-questions: null
-objectives: null
-keypoints: null
+summary: Consider how to apply posting preprints to your own research workflow.
+questions:
+  - Where to publish preprints?
+  - When to publish preprints?
+  - When to update preprints?
+objectives:
+  - Identify where to publish preprints, when to publish, and when to update
+keypoints:
+  - Consider the pros and cons of different preprint repositories when deciding
+    where to publish your preprint
+  - For many authors, publishing a preprint may be simultaneous with journal
+    submission
+  - Updates should be made to preprints after substantial revisions or journal
+    acceptance
 is-break: null
 ukrn_wb_rules:
   - allow-multiple
