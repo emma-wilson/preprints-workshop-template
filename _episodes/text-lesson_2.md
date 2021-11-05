@@ -1,13 +1,20 @@
 ---
-title: Text Lesson
-teaching: null
+title: Policies and Permissions
+teaching: 15
 exercises: null
 duration: null
-summary: This template shows you how to use the various different special text
-  boxes on offer.
-questions: null
-objectives: null
-keypoints: null
+summary: Understanding journal and funder policies on preprints.
+questions:
+  - Will posting a preprint affect publishing in other journals?
+  - What journals do and don't allow preprints?
+  - Do certain funders require research to be published as a preprint?
+objectives:
+  - Understand journal policies around preprints
+  - Understand funder policies around preprints
+keypoints:
+  - You can check Sherpa/Romeo to understand journal policies around posting
+    preprints
+  - Different funders have different requirements regarding preprints
 is-break: null
 ukrn_wb_rules:
   - allow-multiple
