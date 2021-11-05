@@ -29,6 +29,8 @@ dependencies: []
 originalRepository: UKRN-Open-Research/ukrn-wb-lesson-templates
 
 ---
+Begin your workshop with an introduction to the concept of preprints, along with potential benefits and drawbacks.
+
 ## What are preprints?
 
 Give an introduction to what preprints are. It can be useful to add a discussion element to your workshop to gauge participants' understanding of preprints. You might consider briefly explaining why current academic publishing workflows can often be slow and expensive.
