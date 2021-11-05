@@ -29,109 +29,22 @@ dependencies: []
 originalRepository: UKRN-Open-Research/ukrn-wb-lesson-templates
 
 ---
-## Markdown
+## What are preprints?
 
-The text in these episodes is written in markdown.
-The **Workshop Builder** has a markdown editor, so it should not be _too difficult_ to edit the text to suit your requirements.
+Give an introduction to what preprints are. It can be useful to add a discussion element to your workshop to gauge participants' understanding of preprints. You might consider briefly explaining why current academic publishing workflows can often be slow and expensive.
 
-In addition to this, the website template we use has a variety of special highlighted sections that we use to draw attention to things.
+## Benefits of preprinting
 
-### Lesson sections
+Introduce some of the benefits of preprinting. These could include:
 
-The following lesson section tags are available:
-* `{: .prereq}`
-* `{: .callout}`
-* `{: .challenge}`
-* `{: .checklist}`
-* `{: .discussion}`
-* `{: .solution}`
-* `{: .testimonial}`
+- Benefits for science, e.g. getting your work out there as soon as it’s ready, to reduce delays in knowledge sharing
+- Benefits for researchers, e.g. as a free way to publish open access
 
-Additionally, you can make extra copies of these tags, which are included automatically:
-* `{: .objectives}`
-* `{: .keypoints}`
+## Acknowledging concerns
 
-Each tag is used in the same way, by including a section with a heading (`## heading`) in a block quote (`> quoted text`), and by having the tag `{: .tag-name}` on the line immediately following:
+Importantly, address the concerns that your participants have. Common concerns (and how to address them) may include:
 
-```markdown
-> ## Section Title
-> Here is the section body.
-> This can be multiple lines long, and include images, code, etc.
->
-> If you want paragraph breaks, make sure the quotation block continues
-> by having the blank line start with >
->
-> When you're finished, style the whole block by including the tag on the next line.
-{: .tag-name}
-```
+- The dangers of having non-peer reviewed studies in public view (and how to mitigate that)
+- Having multiple versions of a paper out there (and how to link back to the final published version)
 
-### Examples
-
-> ## `{: .prereq}` Tag
-> This is a `{: .prereq}` tag block.
-> This tag is usually used to tell participants what they need before they can complete a lesson.
-{: .prereq}
-
-> ## `{: .callout}` Tag
-> This is a `{: .callout}` tag block.
-> This tag is usually used to highlight something participants should take note of.
-{: .callout}
-
-> ## `{: .challenge}` Tag
-> This is a `{: .challenge}` tag block.
-> This tag is usually used to suggest an activity for participants to do, perhaps writing a bit of code or trying to complete an exercise.
-{: .challenge}
-
-> ## `{: .checklist}` Tag
-> This is a `{: .checklist}` tag block.
-> This tag is usually used to provide a list participants can use to make sure they don't forget an important step in a procedure.
-{: .checklist}
-
-> ## `{: .discussion}` Tag
-> This is a `{: .discussion}` tag block.
-> This tag is usually used to present a question for participants to discuss.
-{: .discussion}
-
-> ## `{: .solution}` Tag
-> This is a `{: .solution}` tag block.
-> This tag is usually used to present a solution to a problem.
-> It is hidden by default, so that participants have to click to expand it and see the answer.
-{: .solution}
-
-```markdown
-> Using a different heading level for the solution tag won't work.
-> It has to be level 2.
-```
-{: .warning}
-
-> ## `{: .testimonial}` Tag
-> This is a `{: .testimonial}` tag block.
-> This tag is usually used to present quotes from people who have previously participated in the course.
-{: .testimonial}
-
-### Advanced Tag Use
-
-You can nest tags.
-It's quite common to see `{: .solution}` tags nested inside `{: .challenge}` tags, for example.
-They are done by stacking quote levels:
-```markdown
-> ## Question
-> Why do you normally not need to use `{: .objectives}` and `{: .keypoints}` tags?
-> > ## Answer
-> > These tags are included automatically at the beginning and end of the lesson.
-> {: .solution}
-{: .challenge}
-```
-
-And it looks like:
-> ## Question
-> Why do you normally not need to use `{: .objectives}` and `{: .keypoints}` tags?
-> > ## Answer
-> > These tags are included automatically at the beginning and end of the lesson.
-> {: .solution}
-{: .challenge}
-
-## HTML
-
-You can also write in HTML.
-The special `<kbd>` tag is available for use in neatly styling instructions like "press <kbd>Ctrl</kbd> + <kbd>Home</kbd>".
+You might want to reassure the participants of your workshop that it’s okay to be concerned about these topics, and that your workshop will help them overcome these concerns.
